@@ -2,7 +2,7 @@
 - 👀 I’m interested in python coding 
 - 🌱 I’m currently learning Cyber security 
 - 💞️ I’m looking to collaborate on an nft project 
-- 📫 How to reach me olaprosper12@gmail.com
+- 📫 How to reach me olaprosper12@gmail.com or prosper.oladosu@binghamuni.edu.ng
 
 <!---
 Oladosuprosper/Oladosuprosper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
